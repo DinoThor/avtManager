@@ -1,4 +1,4 @@
-import { Navbar, Nav, Modal, Input } from 'rsuite';
+import { Navbar, Nav, Modal } from 'rsuite';
 import { useEffect, useState } from 'react';
 
 import CloseIcon from '@rsuite/icons/Close';
